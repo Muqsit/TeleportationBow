@@ -1,0 +1,4 @@
+name: TeleportationBow
+main: muqsit\teleportationbow\Main
+api: [3.0.0-ALPHA12, 3.0.0]
+version: 0.0.1

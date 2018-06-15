@@ -1,0 +1,14 @@
+# ----------------------------------
+# Configuration for TeleportationBow
+# ----------------------------------
+
+# Name of the teleportation bow.
+bow-name: "&eTeleportation Bow"
+
+# Lore of the teleportation bow.
+bow-lore:
+  - "&7Fire this bow to teleport to wherever"
+  - "&7the arrow strikes."
+
+# Whether to give players the bow when they join
+give-bow-on-join: true
